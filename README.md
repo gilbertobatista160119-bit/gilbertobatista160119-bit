@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gilberto-batista-ti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gilbertobatista160119@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <img src="https://komarev.com/ghpvc/?username=gilbertobatista160119-bit&style=for-the-badge&color=10b981&label=VISITAS" alt="Visitas ao perfil" />
 </p>
@@ -19,7 +20,7 @@
 - 📱 Do web ao mobile: APIs REST, PWAs e apps com **React Native/Expo**
 - ☁️ Deploy com **Docker**, **Nginx** e **Google Cloud**
 - 🛍️ Criador do **Blessed**, sistema de gestão de vendas usado no dia a dia de uma loja
-- 📫 Fale comigo: **gilbertobatista160119@gmail.com**
+- 📫 Fale comigo: **gilbertobatista160119@gmail.com** ou pelo [LinkedIn](https://www.linkedin.com/in/gilberto-batista-ti/)
 
 ---
 
