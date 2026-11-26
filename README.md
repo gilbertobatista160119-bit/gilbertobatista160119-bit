@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🥗 NutriFit</h3>
+      <h3>🥗 <a href="https://github.com/gilbertobatista160119-bit/NutriFit">NutriFit</a></h3>
       <p>App de saúde (PWA) com plano alimentar personalizado, treinos em casa, na praça ou na academia e acompanhamento de peso, com modo claro e escuro.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
