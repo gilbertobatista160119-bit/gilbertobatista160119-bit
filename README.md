@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/gilbertobatista160119-bit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Gilberto+%F0%9F%91%8B;Desenvolvedor+Full+Stack;PHP+%7C+Laravel+%7C+JavaScript+%7C+Python;Transformando+ideias+em+aplica%C3%A7%C3%B5es+web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Gilberto+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Laravel+%7C+Django+%7C+JavaScript+%7C+Python;Transformando+ideias+em+aplica%C3%A7%C3%B5es+web" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedor **Full Stack**, do back-end em **PHP/Laravel** ao front-end com **Tailwind** e **Alpine.js**
+- 💻 Desenvolvedor **Full Stack**, com back-end em **PHP/Laravel** e **Python/Django** e front-end com **Tailwind** e **Alpine.js**
 - 🌱 Criando aplicações web responsivas, rápidas e instaláveis como **PWA**
 - 🐍 Também uso **Python** para automações e scripts
 - 📫 Fale comigo: **gilbertobatista160119@gmail.com**
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
   <br />
